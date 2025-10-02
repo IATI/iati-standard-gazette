@@ -1,0 +1,41 @@
+{
+    //-------- Code Spell Checker Configuration --------
+    // The Language locale to use when spell checking. "en", "en-US" and "en-GB" are currently supported by default.
+    "cSpell.language": "en",
+    // Controls the maximum number of spelling errors per document.
+    "cSpell.maxNumberOfProblems": 100,
+    // Controls the number of suggestions shown.
+    "cSpell.numSuggestions": 8,
+    // The minimum length of a word before checking it against a dictionary.
+    "cSpell.minWordLength": 4,
+    // Specify file types to spell check.
+    "cSpell.enabledLanguageIds": [
+        "python",
+        "plaintext"
+    ],
+    // Enable / Disable the spell checker.
+    "cSpell.enabled": true,
+    // Enable / Disable compound words like 'errormessage'
+    "cSpell.allowCompoundWords": false,
+    // Words to be ignored and not suggested.
+    "cSpell.ignoreWords": [
+        ""
+    ],
+    // Specify paths/files to ignore.
+    "cSpell.ignorePaths": [
+        "vscode-extension", //
+        ".git", // Ignore the .git directory
+    ],
+    // flagWords - list of words to be always considered incorrect
+    // This is useful for offensive words and common spelling errors.
+    // For example "hte" should be "the"`
+    "cSpell.flagWords": [
+        "hte"
+    ],
+    // Set the delay before spell checking the document. Default is 50.
+    "cSpell.spellCheckDelayMs": 50,
+    "cSpell.words": [
+        "eamodio",
+    ],
+    "editor.formatOnSave": true
+}

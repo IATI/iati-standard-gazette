@@ -1,0 +1,35 @@
+# .readthedocs.yaml
+# Read the Docs configuration file
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
+
+# Required
+version: 2
+
+# Set the version of Python and other tools you might need
+build:
+  os: ubuntu-24.04
+  tools:
+    python: "3.13"
+  jobs:
+    pre_build:
+      - python -c "import iati_sphinx_theme, shutil, os; src = os.path.join(os.path.dirname(iati_sphinx_theme.__file__), \"locale\"); shutil.copytree(src, \"docs/locale\", dirs_exist_ok=True)"
+      - pybabel compile -d docs/locale --domain=sphinx
+
+# Build documentation in the docs/ directory with Sphinx
+sphinx:
+  configuration: docs/conf.py
+  builder: dirhtml
+
+# Build all formats, including PDF
+formats: all
+
+# Optionally declare the Python requirements required to build your docs
+python:
+  install:
+    - requirements: requirements.txt
+
+# You can include or exclude git submodules from the Read the Docs
+# documentation build.
+# https://docs.readthedocs.io/en/stable/config-file/v2.html#submodules
+submodules:
+  include: all
