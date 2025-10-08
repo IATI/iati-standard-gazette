@@ -6,13 +6,13 @@
 #
 alabaster==1.0.0
     # via sphinx
-attrs==25.3.0
+attrs==25.4.0
     # via referencing
 babel==2.17.0
     # via
     #   sphinx
     #   sphinx-intl
-certifi==2025.8.3
+certifi==2025.10.5
     # via requests
 charset-normalizer==3.4.3
     # via requests
@@ -25,7 +25,7 @@ docutils==0.21.2
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
     #   sphinxcontrib-opendataservices-jsonschema
-iati-sphinx-theme==3.1.0
+iati-sphinx-theme==3.1.1
     # via -r requirements.in
 idna==3.10
     # via requests
@@ -73,6 +73,7 @@ requests==2.32.5
     # via
     #   jscc
     #   sphinx
+    #   sphinxcontrib-youtube
 roman-numerals-py==3.1.0
     # via sphinx
 rpds-py==0.27.1
@@ -86,6 +87,8 @@ sphinx==8.2.3
     #   sphinx-intl
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
+    #   sphinxcontrib-video
+    #   sphinxcontrib-youtube
 sphinx-intl==2.3.2
     # via -r requirements.in
 sphinx-togglebutton==0.3.2
@@ -106,6 +109,10 @@ sphinxcontrib-qthelp==2.0.0
     # via sphinx
 sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
+sphinxcontrib-video==0.4.1
+    # via -r requirements.in
+sphinxcontrib-youtube==1.4.1
+    # via -r requirements.in
 urllib3==2.5.0
     # via requests
 wheel==0.45.1
