@@ -53,11 +53,15 @@ Principles Assessment
 | evolve                                                                   |                                                                  |    |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 
+Source Materials & Evidence
+---------------------------
+
+*50-100 words to describe the the evidence that supports this change, or any source materials that have led to this proposal being made such as reports from the community*
 
 Change Details
 --------------
 
-*Link to GitHub PR(s) with the proposed changes.*
+*50-100 words to describe the changes & link to GitHub PR(s) with the proposed changes.*
 
 Participation
 -------------

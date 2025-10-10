@@ -17,7 +17,7 @@ _ = get_translation(MESSAGE_CATALOG_NAME)
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 # These are kept for compatibility but shouldn't appear anywhere on the final website.
 
-project = "IATI Docs Base"
+project = "IATI Standard Gazette"
 author = "IATI Secretariat"
 language = "en"
 
@@ -43,7 +43,7 @@ html_theme_options = {  # See https://iati-sphinx-theme.readthedocs-hosted.com/e
     "header_title_text": _("IATI Standard Gazette"),
     "header_eyebrow_text": _("IATI Standard"),
     "languages": ["en"],
-    "project_title": _("IATI Docs Base"),
+    "project_title": _("IATI Standard Gazette"),
     "show_download_links": True,
 }
 

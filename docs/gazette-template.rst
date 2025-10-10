@@ -1,5 +1,5 @@
-Proposal Template
-=================
+Gazette Template
+================
 
 Each edition of the IATI Standard Gazette follows this format. 
 

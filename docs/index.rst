@@ -6,7 +6,7 @@ The IATI Standard Gazette is the official record of proposals and changes to the
 
 Each edition is distributed via a `mailing list <https://mailchi.mp/iatistandard/iati-standard-gazette>`_ and is made available here as part of a perpetual archive. 
 
-Each proposal describes how to provide input. 
+Each proposal describes how to provide input for that specific proposal. 
 
 
 .. toctree::
@@ -21,9 +21,9 @@ Each proposal describes how to provide input.
     :hidden:
     :titlesonly:
     :maxdepth: 3
-    :caption: Archive
+    :caption: Gazette Editions & Proposals
 
-    2025 <2025>
+    2025 <2025/index>
 
 
 .. toctree::
