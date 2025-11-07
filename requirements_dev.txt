@@ -12,7 +12,7 @@ anyio==4.11.0
     # via
     #   starlette
     #   watchfiles
-attrs==25.3.0
+attrs==25.4.0
     # via
     #   -r requirements.txt
     #   referencing
@@ -23,15 +23,15 @@ babel==2.17.0
     #   sphinx-intl
 black==25.9.0
     # via -r requirements_dev.in
-certifi==2025.6.15
+certifi==2025.10.5
     # via
     #   -r requirements.txt
     #   requests
-charset-normalizer==3.4.2
+charset-normalizer==3.4.3
     # via
     #   -r requirements.txt
     #   requests
-click==8.2.1
+click==8.3.0
     # via
     #   -r requirements.txt
     #   black
@@ -49,7 +49,7 @@ docutils==0.21.2
     #   sphinxcontrib-opendataservices-jsonschema
 h11==0.16.0
     # via uvicorn
-iati-sphinx-theme==3.0.0
+iati-sphinx-theme==3.1.1
     # via -r requirements.txt
 idna==3.10
     # via
@@ -88,11 +88,11 @@ markdown-it-py==3.0.0
     #   -r requirements.txt
     #   mdit-py-plugins
     #   myst-parser
-markupsafe==3.0.2
+markupsafe==3.0.3
     # via
     #   -r requirements.txt
     #   jinja2
-mdit-py-plugins==0.4.2
+mdit-py-plugins==0.5.0
     # via
     #   -r requirements.txt
     #   myst-parser
@@ -114,7 +114,7 @@ packaging==25.0
     #   sphinx
 pathspec==0.12.1
     # via black
-platformdirs==4.4.0
+platformdirs==4.5.0
     # via black
 pygments==2.19.2
     # via
@@ -122,7 +122,7 @@ pygments==2.19.2
     #   sphinx
 pytokens==0.1.10
     # via black
-pyyaml==6.0.2
+pyyaml==6.0.3
     # via
     #   -r requirements.txt
     #   myst-parser
@@ -130,16 +130,17 @@ referencing==0.36.2
     # via
     #   -r requirements.txt
     #   sphinxcontrib-opendataservices-jsonschema
-requests==2.32.4
+requests==2.32.5
     # via
     #   -r requirements.txt
     #   jscc
     #   sphinx
+    #   sphinxcontrib-youtube
 roman-numerals-py==3.1.0
     # via
     #   -r requirements.txt
     #   sphinx
-rpds-py==0.25.1
+rpds-py==0.27.1
     # via
     #   -r requirements.txt
     #   referencing
@@ -157,9 +158,11 @@ sphinx==8.2.3
     #   sphinx-intl
     #   sphinx-togglebutton
     #   sphinxcontrib-opendataservices
+    #   sphinxcontrib-video
+    #   sphinxcontrib-youtube
 sphinx-autobuild==2025.8.25
     # via -r requirements_dev.in
-sphinx-intl==2.3.1
+sphinx-intl==2.3.2
     # via -r requirements.txt
 sphinx-togglebutton==0.3.2
     # via -r requirements.txt
@@ -193,6 +196,10 @@ sphinxcontrib-serializinghtml==2.0.0
     # via
     #   -r requirements.txt
     #   sphinx
+sphinxcontrib-video==0.4.1
+    # via -r requirements.txt
+sphinxcontrib-youtube==1.4.1
+    # via -r requirements.txt
 starlette==0.48.0
     # via sphinx-autobuild
 urllib3==2.5.0

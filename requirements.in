@@ -1,5 +1,7 @@
 sphinx
 sphinx-togglebutton
 sphinxcontrib-opendataservices
+sphinxcontrib-video
+sphinxcontrib-youtube
 sphinx-intl
 iati-sphinx-theme
