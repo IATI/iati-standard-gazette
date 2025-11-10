@@ -1,6 +1,12 @@
 Proposal: November 2025 Typographic Updates
 ==========================================
 
+
+.. note::
+
+   This proposal was circulated in the 2025-11-10 edition of the IATI Standard Gazette. It will therefore pass if no objections are received by the end of 2025-12-10. 
+
+
 Current State of Standard
 --------------------------
 
