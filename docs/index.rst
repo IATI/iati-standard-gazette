@@ -25,6 +25,14 @@ Each proposal describes how to provide input for that specific proposal.
 
     2025 <2025/index>
 
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 3
+    :caption: Issue Log
+
+    element-changes
+    codelist-changes
 
 .. toctree::
     :hidden:
