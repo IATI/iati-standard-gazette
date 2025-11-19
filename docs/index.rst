@@ -31,6 +31,7 @@ Each proposal describes how to provide input for that specific proposal.
     :maxdepth: 3
     :caption: Issue Log
 
+    activity-changes
     organisation-changes
     codelist-changes
 
