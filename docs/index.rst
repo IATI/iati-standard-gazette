@@ -31,7 +31,7 @@ Each proposal describes how to provide input for that specific proposal.
     :maxdepth: 3
     :caption: Issue Log
 
-    element-changes
+    organisation-changes
     codelist-changes
 
 .. toctree::

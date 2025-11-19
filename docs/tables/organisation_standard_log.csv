@@ -1,0 +1,5 @@
+Element/Attribute,Proposed Change,Rationale,Source,Date Added
+`iati-organisation/ organisation-identifier <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`_,"Change definition from ""Machine-readable identification string for the organisation issuing the report."" to ""Machine-readable identification string for the organisation being reported on.""","To correct an error in the Standard. 
+
+The current definition duplicates the `iati-organisation/reporting-org/@ref <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`_ definition.",Identified via IATI Support queries. ,Nov 2025
+`iati-organisation/ organisation-identifier <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`_,Update the definition to declare that they are case insensitive.,"To simplify analysis of IATI data, and avoid mis-matches due to case.",Current secretariat work,Nov 2025
