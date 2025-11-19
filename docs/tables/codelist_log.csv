@@ -1,29 +1,36 @@
 Codelist,Proposed Change,Rationale,Source,Date Added
-`Aid Type <https://iatistandard.org/en/iati-standard/203/codelists/aidtype/>`_,Add missing descriptions.,To ensure that data users and publishers have a shared understanding of the codelist.,"""Standardising the Standard""
+`Aid Type <https://iatistandard.org/en/iati-standard/203/codelists/aidtype/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
 
 Previous secretariat research",Nov 2025
-`Budget not provided <https://iatistandard.org/en/iati-standard/203/codelists/budgetnotprovided/>`_,Add missing descriptions.,To ensure that data users and publishers have a shared understanding of the codelist.,"""Standardising the Standard""
+`Budget not provided <https://iatistandard.org/en/iati-standard/203/codelists/budgetnotprovided/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
 
 Previous secretariat research",Nov 2025
-`Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_,Add missing descriptions.,To ensure that data users and publishers have a shared understanding of the codelist.,"""Standardising the Standard""
+`Budget Identifier <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifier/>`_,Remove the codelist.,As of version 2.03 this codelist has been deprecated.,Current secretariat work,Nov 2025
+`Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
 
 Previous secretariat research",Nov 2025
-`Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_,"Reformat codelist so that activity and organistion level documents are more clearly defined. 
+`Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_,"Reformat codelist so that activity and organisation level documents are more clearly defined. 
 
 Depreciate the `Document Category (category) <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory-category/>`_ codelist.","Currently, A codes are for activity level documents and B codes are for organisation level documents. This is not clear to data users or publishers.",Identified via IATI Support queries. ,Nov 2025
 `Finance Type <https://reference.iatistandard.org/en/iati-standard/203/codelists/financetype/>`_,Add an alternative codelist,"The existing codelist is taken from the DAC/CRS transaction classification. Reporting organisations have become more varied since IATIs inception, and struggle to map to internal codes. ",Identified via IATI Support queries. ,Nov 2025
-`Humanitarian Scope Type <https://reference.iatistandard.org/en/iati-standard/203/codelists/humanitarianscopetype/>`_,Add missing descriptions.,To ensure that data users and publishers have a shared understanding of the codelist.,"""Standardising the Standard""
+`Humanitarian Scope Type <https://reference.iatistandard.org/en/iati-standard/203/codelists/humanitarianscopetype/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
 
 Previous secretariat research",Nov 2025
 `Humanitarian Scope Vocabulary <https://iatistandard.org/en/iati-standard/203/codelists/humanitarianscopevocabulary/>`_,Replace the values 1-2 and 2-1 with 12 and 21.,"Microsoft Excel interprets 1-2 and 2-1 as dates, which makes it hard to work with IATI data that uses this codelist in spreadsheets.",2024 Members Assembly Session,Nov 2025
-`Location Type (category) <https://reference.iatistandard.org/en/iati-standard/203/codelists/locationtype-category/>`_,Add missing descriptions.,To ensure that data users and publishers have a shared understanding of the codelist.,"""Standardising the Standard""
+`Location Type (category) <https://reference.iatistandard.org/en/iati-standard/203/codelists/locationtype-category/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
+
 Previous secretariat research",Nov 2025
 `Organisation Type <https://iatistandard.org/en/iati-standard/203/codelists/organisationtype/>`_,Map the codelist to the OECD DAC codes,To allow easy mapping between systems. ,"Initial `discussions <https://www.iaticonnect.org/discussion/differences-between-ngo-organisation-type-codes>`_  in 2016.
 
 Requested by IATI Community Member, Sept 2025",Nov 2025
-`Organisation Type (category) <https://iatistandard.org/en/iati-standard/203/codelists/organisationtype/>`_,Add missing descriptions.,To ensure that data users and publishers have a shared understanding of the codelist.,"""Standardising the Standard""
+`Organisation Type (category) <https://iatistandard.org/en/iati-standard/203/codelists/organisationtype/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
 
 Previous secretariat research",Nov 2025
 `Result Vocabulary <https://reference.iatistandard.org/en/iati-standard/203/codelists/resultvocabulary/>`_,Depreciate the Result vocabulary codelist,This element is required but has one value.,"""Standardising the Standard""
+
+Previous secretariat research",Nov 2025
+`Transaction Type <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_,"Remove little used transaction types.
+
+Form a new codelist to provide this extra ""@detail""","Rare transaction types are often excluded from data use queries, so the data is not used. ","""Standardising the Standard""
 
 Previous secretariat research",Nov 2025
