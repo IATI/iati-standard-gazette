@@ -10,7 +10,7 @@ Pseudocode (logic statements),Reformat logic statements in the Standard.,To incr
 ","""Evidence for a Major Upgrade""
 
 Previous secretariat research",Added Nov 2025
-`iati-activity/budget/@type <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/budget/>`_ and @status,Change budget @status and @type to boolean.,"Budget type and status are not mandatory, so it can be hard for a data user to know whether a budget is indicative/committed or original/revised. As 2 item codelists a boolean could meet this need.","""Standardising the Standard""
+`iati-activity/budget/@type <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/budget/>`_ and @status,Change budget @status and @type to boolean.,"Budget type and status are not mandatory, so it can be hard for a data user to know whether a budget is indicative/committed or original/revised. As 2 item codelists, a boolean could meet this need.","""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
 iati-activity/budget/budget-line,"Add a budget-line element to the Activity Standard, as in the `Organisation Standard <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/total-budget/budget-line/>`_ .",To allow linkage between organisation and activity level budget lines.,"Requested by IATI Community Member, Oct 2023",Added Nov 2025
@@ -36,7 +36,7 @@ This is contradictory and confusing for reporting organisations.",Identified via
 `iati-activity/location/point <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/location/point/>`_ and `iati-activity/location/ point/pos <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/location/point/pos/>`_,Combine the point and pos elements.,The point element only contains one set attribute which could move to pos or to the element description.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
-`iati-activity/transaction/ provider-org/@provider-activity-id <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`_,"Change description from ""...it if STRONGLY RECOMMENDED..."" to ""...it if STRONGLY RECOMMENDED..."".",To fix a typo.,2024 Members Assembly Session,"Added Nov 2025
+`iati-activity/transaction/ provider-org/@provider-activity-id <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`_,"Change description from ""...it if STRONGLY RECOMMENDED..."" to ""...it is STRONGLY RECOMMENDED..."".",To fix a typo.,2024 Members Assembly Session,"Added Nov 2025
 
 `Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
 `iati-activity/related-activity/ <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/related-activity/>`_,Clarify that related-activities should refer to activities from the same reporting organisation.,To ensure consistent use and understanding of the Standard.,"""Standardising the Standard""
