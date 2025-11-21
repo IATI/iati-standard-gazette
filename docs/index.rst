@@ -25,7 +25,6 @@ Each proposal describes how to provide input for that specific proposal.
 
     2025 <2025/index>
 
-
 .. toctree::
     :hidden:
     :titlesonly:
@@ -34,3 +33,13 @@ Each proposal describes how to provide input for that specific proposal.
 
     Proposal <proposal-template>
     Gazette <gazette-template>
+
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 3
+    :caption: Potential Changes
+
+    Activity Standard <activity-changes>
+    Organisation Standard <organisation-changes>
+    Codelists <codelist-changes>

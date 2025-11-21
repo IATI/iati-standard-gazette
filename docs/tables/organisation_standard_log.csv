@@ -1,0 +1,11 @@
+Element/Attribute,Proposed Change,Rationale,Source,Status
+`iati-organisation/ organisation-identifier <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`_,"Change definition from ""Machine-readable identification string for the organisation issuing the report."" to ""Machine-readable identification string for the organisation being reported on.""","To correct an error in the Standard. 
+
+The current definition duplicates the `iati-organisation/reporting-org/@ref <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`_ definition.",Identified via IATI Support queries. ,Added Nov 2025
+`iati-organisation/ organisation-identifier <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`_,Update the definition to declare that they are case insensitive.,"To simplify analysis of IATI data, and avoid mis-matches due to case.",Current secretariat work,Added Nov 2025
+`@version <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/>`_,Replace the term 'IATI specification' with 'IATI Standard'.,To increase consistency across the Standard.,Current secretariat work,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
+`iati-organisation/ recipient-region-budget/ recipient-region/ @vocabulary-uri <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/recipient-region-budget/recipient-region/>`_,"Change definition from ""...While this is an optional field it is strongly recommended..."" to ""...This is an optional field, but it is strongly recommended..."".",To increase clarity across the Standard.,Current secretariat work,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"

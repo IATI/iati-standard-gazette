@@ -1,0 +1,54 @@
+Element/Attribute,Proposed Change,Rationale,Source,Status
+Boolean attributes,"Clarify references to and descriptions of booleans throughout the Standard.
+For example, change the terms 'process flag' and 'boolean flag' to 'flag'.",To increase consistency across the Standard.,Current secretariat work,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
+Pseudocode (logic statements),Reformat logic statements in the Standard.,To increase clarity across the Standard.,Current secretariat work,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
+`iati-activity/budget/@type <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/budget/>`_,Add rules for revised budgets. The IATI Standard currently allows multiple versions of a revised budget to be published for the same time period.,"Data users should be able to sum the budget figures to get totals for a country or region.
+","""Evidence for a Major Upgrade""
+
+Previous secretariat research",Added Nov 2025
+`iati-activity/budget/@type <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/budget/>`_ and @status,Change budget @status and @type to boolean.,"Budget type and status are not mandatory, so it can be hard for a data user to know whether a budget is indicative/committed or original/revised. As 2 item codelists, a boolean could meet this need.","""Standardising the Standard""
+
+Previous secretariat research",Added Nov 2025
+iati-activity/budget/budget-line,"Add a budget-line element to the Activity Standard, as in the `Organisation Standard <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/total-budget/budget-line/>`_ .",To allow linkage between organisation and activity level budget lines.,"Requested by IATI Community Member, Oct 2023",Added Nov 2025
+`iati-activity/country-budget-items <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/country-budget-items/>`_,Remove the country-budget-items element from the Standard.,"Element is redundant, superseded by the `sector codes <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/sector/>`_ .","Initial `discussions <https://www.iaticonnect.org/group/standard-management-consultations-0/discussion/guidance-implementing-aid-and-budget-alignment>`_ in 2017.
+
+""Standardising the Standard""
+
+Previous secretariat research",Added Nov 2025
+`iati-activity/activity-date <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/activity-date/>`_ and `iati-activity/activity-status <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/activity-status/>`_,Add rules to require that activity status and dates must align.,"Tools and data users struggle to categorise activities, as often the status doesn't match the dates. ","""Standardising the Standard""
+
+Previous secretariat research
+
+`State of the Data 3:  Timeliness <https://deepnote.com/streamlit-apps/60103a9d-7316-4528-b0fb-12beead3e967>`_",Added Nov 2025
+`iati-activity/@default-currency <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/>`_,"Clarify Rule 7.8.1: ""The activity should specify a default currency OR the currency must be specified for each monetary value.""","The `transaction example usage <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/value//>`_ specifies that ""A Currency code should only be declared if different to @default-currency in the iati-activity element."" 
+
+This is contradictory and confusing for reporting organisations.",Identified via IATI Support queries. ,Added Nov 2025
+`iati-activity/result/ document-link <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/document-link/>`_ and other document-link subelements,"Remove the document-link elements from result, indicator, and baseline elements.","Less than 1% of document-links are published here, including """"Results, outcomes and outputs"" documents.",`State of the Data 1: Document Links in an AI Era <https://deepnote.com/streamlit-apps/dd5a3dfc-3703-4a70-9f2a-b08fe26e391e>`_,Added Nov 2025
+`@generated-datetime <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/>`_,"Change the description from ""A date/time stamp for when this file was generated..."" to ""A date/time when this file was generated..."".",To increase consistency across the Standard.,Current secretariat work,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
+`iati-activity/iati-identifier <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/iati-identifier/>`_,Update the definition to declare that they are case insensitive.,"To simplify analysis of IATI data, and avoid mis-matches due to case.",Current secretariat work,Added Nov 2025
+`iati-activity/iati-identifier <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/iati-identifier/>`_,"Change Rule 1.3.1: ""The iati-identifier should not start or end with spaces or newlines."" to ""The iati-identifier must not start or end with spaces or newlines.""",Identifiers that start or end with spaces or newlines are likely to cause processing issues for data users.,2024 Members Assembly Session,Added Nov 2025
+`iati-activity/location/point <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/location/point/>`_ and `iati-activity/location/ point/pos <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/location/point/pos/>`_,Combine the point and pos elements.,The point element only contains one set attribute which could move to pos or to the element description.,"""Standardising the Standard""
+
+Previous secretariat research",Added Nov 2025
+`iati-activity/transaction/ provider-org/@provider-activity-id <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`_,"Change description from ""...it if STRONGLY RECOMMENDED..."" to ""...it is STRONGLY RECOMMENDED..."".",To fix a typo.,2024 Members Assembly Session,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
+`iati-activity/related-activity/ <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/related-activity/>`_,Clarify that related-activities should refer to activities from the same reporting organisation.,To ensure consistent use and understanding of the Standard.,"""Standardising the Standard""
+
+Previous secretariat research",Added Nov 2025
+`iati-activity/transaction/ transaction-date <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/transaction-date/>`_,"Clarify references to narrative content in the definition: 'The narrative content may contain text (e.g. 2011Q1) for accurately recording less specific dates such as month, quarter, or year.""","This implies that the transaction-date element has narrative content, which is not the case.",Current secretariat work,Added Nov 2025
+`@version <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/>`_,Replace the term 'IATI specification' with 'IATI Standard',To increase consistency across the Standard.,Current secretariat work,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
+`@version <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/>`_,Update the description for clarity. ,To increase consistency across the Standard.,Current secretariat work,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
+@vocabulary-uri attributes,"Change definition from ""...While this is an optional field it is strongly recommended..."" to ""...This is an optional field, but it is strongly recommended..."".",To increase clarity across the Standard.,Current secretariat work,"Added Nov 2025
+
+`Proposal Nov 2025 <http://127.0.0.1:8000/2025/november-2025-typographic-updates.html>`_"
