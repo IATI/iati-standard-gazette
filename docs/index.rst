@@ -29,17 +29,17 @@ Each proposal describes how to provide input for that specific proposal.
     :hidden:
     :titlesonly:
     :maxdepth: 3
-    :caption: Issue Log
+    :caption: Templates
 
-    activity-changes
-    organisation-changes
-    codelist-changes
+    Proposal <proposal-template>
+    Gazette <gazette-template>
 
 .. toctree::
     :hidden:
     :titlesonly:
     :maxdepth: 3
-    :caption: Templates
+    :caption: Potential Changes
 
-    Proposal <proposal-template>
-    Gazette <gazette-template>
+    Activity Standard <activity-changes>
+    Organisation Standard <organisation-changes>
+    Codelists <codelist-changes>
