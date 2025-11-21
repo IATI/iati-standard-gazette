@@ -1,7 +1,7 @@
 Potential Changes: Activity Standard
 =============================================
 
-This table curates known potential changes for the IATI Activitiy Standard. 
+This table curates known potential changes for the IATI Activity Standard. 
 
 It is presented to provide context and support to those interested in the direction of the IATI Standard, it is not intended as a backlog of items that will be implemented.  
 For potential changes to be considered, a proposal is required. 
