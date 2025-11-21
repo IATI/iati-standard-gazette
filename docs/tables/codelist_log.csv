@@ -8,13 +8,13 @@ Previous secretariat research",Added Nov 2025
 `Budget Identifier <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifier/>`_,Remove the codelist.,As of version 2.03 this codelist has been deprecated.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
-`Budget Identifier Sector <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifiersector/>`_,Remove the codelist.,Assumed to be depreciated via `Budget Identifier <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifier/>`_ depreciation in v2.03.,"""Standardising the Standard""
+`Budget Identifier Sector <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifiersector/>`_,Remove the codelist.,Assumed to be deprecated via `Budget Identifier <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifier/>`_ deprecation in v2.03.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
-`Budget Identifier Sector (category) <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifiersector-category/>`_,Remove the codelist.,Assumed to be depreciated via `Budget Identifier <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifier/>`_ depreciation in v2.03.,"""Standardising the Standard""
+`Budget Identifier Sector (category) <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifiersector-category/>`_,Remove the codelist.,Assumed to be deprecated via `Budget Identifier <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifier/>`_ deprecation in v2.03.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
-`Budget Identifier Vocabulary <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifiervocabulary/>`_ ,Remove the codelist.,Assumed to be depreciated via `Budget Identifier <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifier/>`_ depreciation in v2.03.,"""Standardising the Standard""
+`Budget Identifier Vocabulary <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifiervocabulary/>`_ ,Remove the codelist.,Assumed to be deprecated via `Budget Identifier <https://iatistandard.org/en/iati-standard/203/codelists/budgetidentifier/>`_ deprecation in v2.03.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
 `Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
@@ -22,12 +22,12 @@ Previous secretariat research",Added Nov 2025
 Previous secretariat research",Added Nov 2025
 `Document Category <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory/>`_,"Reformat codelist so that activity and organisation level documents are more clearly defined. 
 
-Depreciate the `Document Category (category) <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory-category/>`_ codelist.","Currently, A codes are for activity level documents and B codes are for organisation level documents. This is not clear to data users or publishers.",Identified via IATI Support queries. ,Added Nov 2025
+Deprecate the `Document Category (category) <https://iatistandard.org/en/iati-standard/203/codelists/documentcategory-category/>`_ codelist.","Currently, A codes are for activity level documents and B codes are for organisation level documents. This is not clear to data users or publishers.",Identified via IATI Support queries. ,Added Nov 2025
 `Finance Type <https://reference.iatistandard.org/en/iati-standard/203/codelists/financetype/>`_,Add an alternative codelist,"The existing codelist is taken from the DAC/CRS transaction classification. Reporting organisations have become more varied since IATIs inception, and struggle to map to internal codes. ",Identified via IATI Support queries. ,Added Nov 2025
-`Gazetteer Agency <https://iatistandard.org/en/iati-standard/203/codelists/gazetteeragency/>`_,Remove the codelist.,Assumed to be depreciated via `iati-activity/location/gazetteer-entry <https://iatistandard.org/en/iati-standard/104/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`_ depreciation in v1.04.,"""Standardising the Standard""
+`Gazetteer Agency <https://iatistandard.org/en/iati-standard/203/codelists/gazetteeragency/>`_,Remove the codelist.,Assumed to be deprecated via `iati-activity/location/gazetteer-entry <https://iatistandard.org/en/iati-standard/104/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`_ deprecation in v1.04.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
-`Geographical Precision <https://iatistandard.org/en/iati-standard/203/codelists/geographicalprecision/>`_,Remove the codelist.,Assumed to be depreciated via `iati-activity/location/coordinates <https://iatistandard.org/en/iati-standard/104/activity-standard/iati-activities/iati-activity/location/coordinates/>`_ depreciation in v1.04.,"""Standardising the Standard""
+`Geographical Precision <https://iatistandard.org/en/iati-standard/203/codelists/geographicalprecision/>`_,Remove the codelist.,Assumed to be deprecated via `iati-activity/location/coordinates <https://iatistandard.org/en/iati-standard/104/activity-standard/iati-activities/iati-activity/location/coordinates/>`_ deprecation in v1.04.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
 `Humanitarian Scope Type <https://reference.iatistandard.org/en/iati-standard/203/codelists/humanitarianscopetype/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
@@ -43,7 +43,7 @@ Requested by IATI Community Member, Sept 2025",Added Nov 2025
 `Organisation Type (category) <https://iatistandard.org/en/iati-standard/203/codelists/organisationtype/>`_,Add missing descriptions.,To ensure that data users and reporting organisations have a shared understanding of the codelist.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
-`Result Vocabulary <https://reference.iatistandard.org/en/iati-standard/203/codelists/resultvocabulary/>`_,Depreciate the codelist.,This element is required but has one value.,"""Standardising the Standard""
+`Result Vocabulary <https://reference.iatistandard.org/en/iati-standard/203/codelists/resultvocabulary/>`_,Deprecate the codelist.,This element is required but has one value.,"""Standardising the Standard""
 
 Previous secretariat research",Added Nov 2025
 `Transaction Type <https://iatistandard.org/en/iati-standard/203/codelists/transactiontype/>`_,"Remove little used transaction types.
