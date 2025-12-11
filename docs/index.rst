@@ -2,7 +2,7 @@
 IATI Standard Gazette
 *********************
 
-The IATI Standard Gazette is the official record of proposals and changes to the IATI Standard. 
+The IATI Standard Gazette is the official record of proposals and changes to the `IATI Standard <https://iatistandard.org/en/iati-standard/>`_ . 
 
 Each edition is distributed via a `mailing list <https://mailchi.mp/iatistandard/iati-standard-gazette>`_ and is made available here as part of a perpetual archive. 
 
