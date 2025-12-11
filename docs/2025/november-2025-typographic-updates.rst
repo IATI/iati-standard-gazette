@@ -4,7 +4,10 @@ Proposal: November 2025 Typographic Updates
 
 .. note::
 
-   This proposal was circulated in the 2025-11-10 edition of the IATI Standard Gazette. It will therefore pass if no objections are received by the end of 2025-12-10. 
+   This proposal was circulated in the 2025-11-10 edition of the IATI Standard Gazette.  
+
+   No objections were received, and the proposal passed on 2025-12-10. 
+   The proposed changes were `merged <https://github.com/IATI/IATI-Schemas/pull/527>`_ on 2025-12-11. 
 
 
 Current State of Standard
