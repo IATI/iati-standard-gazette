@@ -39,7 +39,7 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 html_theme = "iati_sphinx_theme"
 html_theme_options = {  # See https://iati-sphinx-theme.readthedocs-hosted.com/en/latest/#configuration for additional options and info
-    "github_repository": "https://github.com/IATI/sphinx-theme",
+    "github_repository": "https://github.com/IATI/iati-standard-gazette",
     "header_title_text": _("IATI Standard Gazette"),
     "header_eyebrow_text": _("IATI Standard"),
     "languages": ["en"],
