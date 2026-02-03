@@ -12,13 +12,13 @@ babel==2.17.0
     # via
     #   sphinx
     #   sphinx-intl
-certifi==2025.10.5
+certifi==2026.1.4
     # via requests
-charset-normalizer==3.4.3
+charset-normalizer==3.4.4
     # via requests
-click==8.3.0
+click==8.3.1
     # via sphinx-intl
-docutils==0.21.2
+docutils==0.22.4
     # via
     #   myst-parser
     #   sphinx
@@ -27,7 +27,7 @@ docutils==0.21.2
     #   sphinxcontrib-opendataservices-jsonschema
 iati-sphinx-theme==3.1.1
     # via -r requirements.in
-idna==3.10
+idna==3.11
     # via requests
 imagesize==1.4.1
     # via sphinx
@@ -47,7 +47,7 @@ jsonref==1.1.0
     # via
     #   jscc
     #   sphinxcontrib-opendataservices-jsonschema
-markdown-it-py==3.0.0
+markdown-it-py==4.0.0
     # via
     #   mdit-py-plugins
     #   myst-parser
@@ -57,30 +57,32 @@ mdit-py-plugins==0.5.0
     # via myst-parser
 mdurl==0.1.2
     # via markdown-it-py
-myst-parser==4.0.1
+myst-parser==5.0.0
     # via
     #   sphinxcontrib-opendataservices
     #   sphinxcontrib-opendataservices-jsonschema
-packaging==25.0
-    # via sphinx
+packaging==26.0
+    # via
+    #   sphinx
+    #   wheel
 pygments==2.19.2
     # via sphinx
 pyyaml==6.0.3
     # via myst-parser
-referencing==0.36.2
+referencing==0.37.0
     # via sphinxcontrib-opendataservices-jsonschema
 requests==2.32.5
     # via
     #   jscc
     #   sphinx
     #   sphinxcontrib-youtube
-roman-numerals-py==3.1.0
+roman-numerals==4.1.0
     # via sphinx
-rpds-py==0.27.1
+rpds-py==0.30.0
     # via referencing
 snowballstemmer==3.0.1
     # via sphinx
-sphinx==8.2.3
+sphinx==9.1.0
     # via
     #   -r requirements.in
     #   myst-parser
@@ -91,7 +93,7 @@ sphinx==8.2.3
     #   sphinxcontrib-youtube
 sphinx-intl==2.3.2
     # via -r requirements.in
-sphinx-togglebutton==0.3.2
+sphinx-togglebutton==0.4.4
     # via -r requirements.in
 sphinxcontrib-applehelp==2.0.0
     # via sphinx
@@ -109,13 +111,13 @@ sphinxcontrib-qthelp==2.0.0
     # via sphinx
 sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
-sphinxcontrib-video==0.4.1
+sphinxcontrib-video==0.4.2
     # via -r requirements.in
 sphinxcontrib-youtube==1.4.1
     # via -r requirements.in
-urllib3==2.5.0
+urllib3==2.6.3
     # via requests
-wheel==0.45.1
+wheel==0.46.3
     # via sphinx-togglebutton
 
 # The following packages are considered to be unsafe in a requirements file:
