@@ -63,6 +63,12 @@ Change Details
 
 *50-100 words to describe the changes & link to GitHub PR(s) with the proposed changes.*
 
+Implementation
+--------------
+
+*25-100 words describing how the implementation will proceed after the 45 day notification period has ended*
+
+
 Participation
 -------------
 
@@ -80,10 +86,8 @@ If you have a GitHub account, you can comment on the pull request. Please start 
 
 The IATI Secretariat will read all responses and find a way to proceed. 
 
-If you do not have a GitHub account, you can email support@iatistandard.org to voice your views; the Secretariat will post a summary of the conversation on GitHub for transparency. 
+If you do not have a GitHub account, you can `contact the IATI Secretariat <https://iatistandard.org/en/guidance/get-support/>`_ to voice your views; the Secretariat will post a summary of the conversation on GitHub for transparency. 
 
-Alternatively, you can start a discussion on IATI Connect. The IATI Secretariat will read and respond appropriately, and post a summary of the conversation on GitHub for transparency. 
+Alternatively, you can start a discussion on `IATI Connect <https://iaticonnect.org>`_. The IATI Secretariat will read and respond appropriately, and post a summary of the conversation on GitHub for transparency. 
 
 *Add any further means of participation as appropriate*
-
-
