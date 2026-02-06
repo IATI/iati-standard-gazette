@@ -1,6 +1,10 @@
 Proposal: GFNS Tag Vocabulary
 =============================
 
+.. note::
+
+   This proposal was circulated in the 2026-02-09 edition of the IATI Standard Gazette.
+
 Current Rule
 ------------
 
