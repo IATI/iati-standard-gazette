@@ -24,6 +24,7 @@ Each proposal describes how to provide input for that specific proposal.
     :caption: Gazette Editions & Proposals
 
     2025 <2025/index>
+    2026 <2026/index>
 
 .. toctree::
     :hidden:
