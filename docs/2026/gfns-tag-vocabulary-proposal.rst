@@ -1,9 +1,12 @@
-Proposal: GFNS Tag Vocabulary
-=============================
+Proposal: 2026-02-09 GFNS Tag Vocabulary
+========================================
 
 .. note::
 
    This proposal was circulated in the 2026-02-09 edition of the IATI Standard Gazette.
+
+   No objections were received, and the proposal passed on 2026-03-16. 
+   The proposed changes were `merged <https://github.com/IATI/IATI-Codelists-NonEmbedded/pull/434>`_ on 2026-03-16. 
 
 Current Rule
 ------------

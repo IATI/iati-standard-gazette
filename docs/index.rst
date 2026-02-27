@@ -20,7 +20,7 @@ Each proposal describes how to provide input for that specific proposal.
 .. toctree::
     :hidden:
     :titlesonly:
-    :maxdepth: 3
+    :maxdepth: 1
     :caption: Gazette Editions & Proposals
 
     2025 <2025/index>
