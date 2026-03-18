@@ -5,7 +5,7 @@ This is the 2026-02-09 edition of the IATI Standard Gazette.
 
 The following proposed changes will be made 30 days after the date of this email if no objections or requests for further discussion are made:
 
-`GFNS Tag Vocabulary <https://standard-gazette.iatistandard.org/en/latest/2026/gfns-tag-vocabulary-proposal/>`_
+:doc:`GFNS Tag Vocabulary <gfns-tag-vocabulary-proposal>`
 
 The following proposed changes have been previously announced but not made yet:
 
@@ -21,6 +21,6 @@ The following proposed changes have received objections in the last 45 days and 
 
 The following changes have been made in the last 45 days, or since the last Gazette edition:
 
-`November 2025 Typographic Updates <https://standard-gazette.iatistandard.org/en/latest/2025/november-2025-typographic-updates/>`_
+:doc:`November 2025 Typographic Updates </2025/november-2025-typographic-updates>`
 
 For further information about the IATI Standard and its change control processes, refer to the IATI Standard Website.
