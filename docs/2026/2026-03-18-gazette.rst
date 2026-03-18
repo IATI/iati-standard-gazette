@@ -1,11 +1,11 @@
-Gazette Edition: 2026-02-09
+Gazette Edition: 2026-03-18
 ---------------------------
 
-This is the 2026-02-09 edition of the IATI Standard Gazette.
+This is the 2026-03-18 edition of the IATI Standard Gazette.
 
 The following proposed changes will be made 30 days after the date of this email if no objections or requests for further discussion are made:
 
-:doc:`GFNS Tag Vocabulary <gfns-tag-vocabulary-proposal>`
+:doc:`Add FTS Flow ID to other-identifier-code <2026-03-18-fts-flow-id-proposal>`
 
 The following proposed changes have been previously announced but not made yet:
 
@@ -13,7 +13,7 @@ The following proposed changes have been previously announced but not made yet:
 
 The following consultations are currently open:
 
-<none>
+`What is the scope of the IATI Standard? <https://github.com/IATI/IATI-Standard-SSOT/issues/787>`_
 
 The following proposed changes have received objections in the last 45 days and are therefore not proceeding:
 
@@ -21,6 +21,6 @@ The following proposed changes have received objections in the last 45 days and 
 
 The following changes have been made in the last 45 days, or since the last Gazette edition:
 
-:doc:`November 2025 Typographic Updates </2025/november-2025-typographic-updates>`
+:doc:`GFNS Tag Vocabulary <gfns-tag-vocabulary-proposal>`
 
 For further information about the IATI Standard and its change control processes, refer to the IATI Standard Website.

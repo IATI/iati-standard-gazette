@@ -1,7 +1,15 @@
 Gazette Template
 ================
 
-Each edition of the IATI Standard Gazette follows this format. 
+Each edition of the IATI Standard Gazette follows this format.
+
+When linking to proposal pages, use the Sphinx ``:doc:`` role rather than hardcoded URLs so that links work correctly in PR preview builds as well as on the live site. Use a path relative to the current file's directory for proposals in the same year, or an absolute path (from the docs root) for proposals in other years:
+
+.. code-block:: rst
+
+   :doc:`Proposal Title <proposal-slug>`
+   :doc:`Proposal Title </2025/proposal-slug>`
+
 
 
 IATI Standard Gazette

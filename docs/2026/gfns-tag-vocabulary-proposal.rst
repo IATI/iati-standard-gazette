@@ -5,6 +5,9 @@ Proposal: GFNS Tag Vocabulary
 
    This proposal was circulated in the 2026-02-09 edition of the IATI Standard Gazette.
 
+   No objections were received, and the proposal passed on 2026-03-16. 
+   The proposed changes were `merged <https://github.com/IATI/IATI-Codelists-NonEmbedded/pull/434>`_ on 2026-03-16. 
+
 Current Rule
 ------------
 
@@ -60,12 +63,12 @@ Principles Assessment
 | Increase Modularity so that concepts can be separated                    | No change                                                        | ↔️ |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 | Increase the Precision of the Standard                                   | Creates a new application of the Standard without introducing    | ✅ |
-|                                                                          | new data structures.                                             |   |
+|                                                                          | new data structures.                                             |    |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 | Improve the Integrity & coherence of the Standard                        | No change                                                        | ↔️ |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 | Integrate the expectation of Change so that the Standard can continue to | Demonstrates IATI's responsiveness to changing requirements      | ✅ |
-| evolve                                                                   |                                                                  |   |
+| evolve                                                                   |                                                                  |    |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 
 Source Materials & Evidence
