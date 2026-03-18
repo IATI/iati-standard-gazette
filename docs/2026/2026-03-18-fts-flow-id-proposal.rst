@@ -1,5 +1,5 @@
-Proposal: 2026-03-18 Add FTS Flow ID to other-identifier-code
-=============================================================
+Proposal: Add FTS Flow ID to other-identifier-code
+==================================================
 
 Current Rule
 ------------

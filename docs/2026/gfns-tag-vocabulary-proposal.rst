@@ -1,5 +1,5 @@
-Proposal: 2026-02-09 GFNS Tag Vocabulary
-========================================
+Proposal: GFNS Tag Vocabulary
+=============================
 
 .. note::
 
@@ -63,12 +63,12 @@ Principles Assessment
 | Increase Modularity so that concepts can be separated                    | No change                                                        | ↔️ |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 | Increase the Precision of the Standard                                   | Creates a new application of the Standard without introducing    | ✅ |
-|                                                                          | new data structures.                                             |   |
+|                                                                          | new data structures.                                             |    |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 | Improve the Integrity & coherence of the Standard                        | No change                                                        | ↔️ |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 | Integrate the expectation of Change so that the Standard can continue to | Demonstrates IATI's responsiveness to changing requirements      | ✅ |
-| evolve                                                                   |                                                                  |   |
+| evolve                                                                   |                                                                  |    |
 +--------------------------------------------------------------------------+------------------------------------------------------------------+----+
 
 Source Materials & Evidence
