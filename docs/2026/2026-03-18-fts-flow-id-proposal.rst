@@ -1,6 +1,14 @@
 Proposal: Add FTS Flow ID to other-identifier-code
 ==================================================
 
+.. note::
+
+    This proposal was circulated in the 2026-03-18 edition of the IATI Standard Gazette.
+
+    No objections were received, and the proposal passed on 2026-04-17. 
+    The proposed changes were `merged <https://github.com/IATI/IATI-Codelists-NonEmbedded/pull/435>`_ on 2026-04-20. 
+
+
 Current Rule
 ------------
 
