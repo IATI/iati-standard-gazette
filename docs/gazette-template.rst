@@ -37,7 +37,7 @@ The following changes have been made in the last 45 days, or since the last Gaze
 
 <list>
 
-The following content from around the IATI ecosystem may be relevant to IATI Gazette readers:
+The following content may be relevant to IATI Gazette readers:
 
 <list>
 
