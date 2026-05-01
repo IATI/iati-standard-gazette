@@ -1,3 +1,7 @@
+.. |br| raw:: html
+
+   <br />
+
 Proposal: Add FTS Flow ID to other-identifier-code
 ==================================================
 
@@ -8,6 +12,13 @@ Proposal: Add FTS Flow ID to other-identifier-code
     No objections were received, and the proposal passed on 2026-04-17. 
     The proposed changes were `merged <https://github.com/IATI/IATI-Codelists-NonEmbedded/pull/435>`_ on 2026-04-20. 
 
+|br|
+
+.. attention::
+
+     IATI reporting does not replace commitments to report to FTS, even with this new code. 
+
+     See `this IATI Connect post <https://www.iaticonnect.org/topic/update-fts-flow-id-now-included-iati-standard>`_ for more details on IATI - FTS interoperability following this proposal passing. 
 
 Current Rule
 ------------
