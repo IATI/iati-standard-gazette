@@ -2,6 +2,9 @@
 #
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
+#
+# NOTE: This file is designed to be synced across all IATI documentation repos.
+# Project-specific settings are imported from project_info.py.
 
 import os
 
@@ -10,14 +13,35 @@ from sphinx.locale import get_translation
 
 import iati_sphinx_theme
 
+# Import project-specific settings
+from project_info import (
+    project,
+    tool_url,
+    nav_label,
+    eyebrow_text,
+    github_repository,
+    languages,
+    plausible_domain,
+    redoc,
+)
+
+# Derive nav and title from project_info. When tool_url is set, the
+# header shows two nav items: the tool itself, and a self-link to the
+# documentation. When unset, just the self-link.
+_nav_label = nav_label or project
+if tool_url:
+    tool_nav_items = {_nav_label: tool_url}
+    project_title = f"{_nav_label}: Documentation"
+else:
+    tool_nav_items = {}
+    project_title = project
+
 MESSAGE_CATALOG_NAME = "iati-sphinx-theme"
 _ = get_translation(MESSAGE_CATALOG_NAME)
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-# These are kept for compatibility but shouldn't appear anywhere on the final website.
 
-project = "IATI Standard Gazette"
 author = "IATI Secretariat"
 language = "en"
 
@@ -26,7 +50,9 @@ language = "en"
 
 extensions = [
     "sphinx.ext.autodoc",
+    "sphinx.ext.autosectionlabel",
     "sphinx.ext.todo",
+    "sphinxcontrib.redoc",
     "sphinxcontrib.video",
     "sphinxcontrib.youtube",
 ]
@@ -39,12 +65,14 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
 html_theme = "iati_sphinx_theme"
 html_theme_options = {  # See https://iati-sphinx-theme.readthedocs-hosted.com/en/latest/#configuration for additional options and info
-    "github_repository": "https://github.com/IATI/iati-standard-gazette",
-    "header_title_text": _("IATI Standard Gazette"),
-    "header_eyebrow_text": _("IATI Standard"),
-    "languages": ["en"],
-    "project_title": _("IATI Standard Gazette"),
+    "github_repository": github_repository,
+    "header_title_text": _(project),
+    "header_eyebrow_text": _(eyebrow_text),
+    "languages": languages,
+    "plausible_domain": plausible_domain,
+    "project_title": _(project_title),
     "show_download_links": True,
+    "tool_nav_items": tool_nav_items,
 }
 
 # Add any paths that contain custom static files (such as style sheets, videos,

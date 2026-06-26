@@ -1,6 +1,7 @@
 sphinx
 sphinx-togglebutton
 sphinxcontrib-opendataservices
+sphinxcontrib-redoc @ git+https://github.com/OpenDataServices/sphinxcontrib-redoc.git@main
 sphinxcontrib-video
 sphinxcontrib-youtube
 sphinx-intl

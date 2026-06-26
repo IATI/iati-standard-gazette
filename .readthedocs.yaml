@@ -20,8 +20,10 @@ sphinx:
   configuration: docs/conf.py
   builder: dirhtml
 
-# Build all formats, including PDF
-formats: all
+# Build PDF and htmlzip formats only (excluding EPUB due to todo extension compatibility)
+formats:
+  - pdf
+  - htmlzip
 
 # Optionally declare the Python requirements required to build your docs
 python:
