@@ -15,7 +15,7 @@ Proposed Change
 
 Update the relevant IATI codelists to the latest OECD DAC version available as of 4 June 2026.
 
-IATI codelists now use the authoritative OECD source (`Development finance classifications<https://development-finance-codelists.oecd.org/Codeslist.aspx>`_) rather than the previously agreed IATI XML version, which is now broadly in line with the IATI XML structure. 
+IATI codelists now use the authoritative OECD source (`Development finance classifications <https://development-finance-codelists.oecd.org/Codeslist.aspx>`_) rather than the previously agreed IATI XML version, which is now broadly in line with the IATI XML structure. 
 
 The IATI codelist for Sector to include a flag for CRS or TOSSD.
 
