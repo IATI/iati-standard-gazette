@@ -1,0 +1,26 @@
+Gazette Edition: 2026-06-30
+---------------------------
+
+This is the 2026-06-30 edition of the IATI Standard Gazette.
+
+The following proposed changes will be made 30 days after the date of this email if no objections or requests for further discussion are made:
+
+:doc:`Synchronisation with OECD DAC codelists <2026-06-30-oecd-dac-codelist-sync-proposal>`
+
+The following proposed changes have been previously announced but not made yet:
+
+<none>
+
+The following consultations are currently open:
+
+`What is the scope of the IATI Standard? <https://github.com/IATI/IATI-Standard-SSOT/issues/787>`_
+
+The following proposed changes have received objections in the last 45 days and are therefore not proceeding:
+
+<none>
+
+The following changes have been made in the last 45 days, or since the last Gazette edition:
+
+:doc:`Add FTS Flow ID to other-identifier-code <2026-03-18-fts-flow-id-proposal>`
+
+For further information about the IATI Standard and its change control processes, refer to the IATI Standard Website.
