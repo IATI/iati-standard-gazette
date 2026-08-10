@@ -4,6 +4,8 @@ Proposal: Synchronisation with OECD DAC codelists
 .. note::
 
    This proposal was circulated in the 2026-06-30 edition of the IATI Standard Gazette.
+   No objections were received, and the proposal passed on 2026-07-30. The proposed changes were merged on 2026-08-03.
+
 
 Current Rule
 ------------
